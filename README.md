@@ -8,6 +8,7 @@
 - The first player to reach 100 points on GLOBAL score wins the game
 - If a player gets consecutive 6 on the dice, they lose all their score, and get back to zero.
                     
-![image](https://user-images.githubusercontent.com/85199436/133075824-5920e96e-f30c-4c99-8834-2503de28b628.png)
+![image](https://user-images.githubusercontent.com/85199436/133077574-7b778573-2e67-48d4-a5d5-fc1d6d4697d2.png)
+
 
 
